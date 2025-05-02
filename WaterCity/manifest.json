@@ -1,0 +1,11 @@
+{
+    "Name": "WaterCity",
+    "Author": "Styslix",
+    "Version": "1.0.0",
+    "Description": "A basic mod featuring the WaterCity theme.",
+    "UniqueID": "Styslix.WaterCity",
+    "UpdateKeys": [ "Nexus:???" ],
+    "ContentPackFor": {
+        "UniqueID": "Pathoschild.ContentPatcher"
+    }
+}
