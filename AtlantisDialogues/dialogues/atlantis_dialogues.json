@@ -17,17 +17,17 @@
     },
     {
       "Action": "EditData",
-      "Target": "Data/Characters/Dialogue/Maru",
+      "Target": "Data/Characters/Dialogue/Haley",
       "Entries": {
-        "Introduction": "Hi! I think Atlantis had big machines under water. So smart and shiny.",
-        "Greeting": "Hello! I want to build machines like Atlantis. They are smart and help people.",
-        "Help": "If you find strange things from Atlantis, please bring them to me. I want to learn.",
-        "Weather_Sunny": "Sun helps machines work. Like the bright lights of Atlantis.",
-        "Weather_Rain": "Rain makes water flow. Like power for machines in Atlantis.",
-        "Fishing": "Fish swim like little robots. Maybe Atlantis made them?",
-        "Birthday": "Happy birthday! One day, we will make big things like Atlantis.",
-        "Love": "Atlantis stories have love and smart minds. I like both.",
-        "Goodbye": "Bye! Don't forget to check the submarine!"
+  "Introduction": "Oh! Atlantis had shiny things, right? I bet I’d look good there.",
+  "Greeting": "Hi! I saw a picture of Atlantis once. So pretty! I want to go.",
+  "Help": "If you find anything from Atlantis, show me! It might be cute... or cool.",
+  "Weather_Sunny": "Sun feels nice. Maybe Atlantis had glowing skies like this?",
+  "Weather_Rain": "Ugh, rain. Maybe Atlantis got all wet like this all the time.",
+  "Fishing": "Fishing? Ew. But... what if the fish are from Atlantis?",
+  "Birthday": "Happy birthday! If Atlantis was real, they had fun birthdays too.",
+  "Love": "Atlantis had love stories, right? I want a love like that. Big and dreamy.",
+  "Goodbye": "Bye! If you find a way to build the submarine, don’t keep it all to yourself!"
       }
     },
     {
