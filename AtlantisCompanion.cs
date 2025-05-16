@@ -22,11 +22,11 @@ namespace CompanionMod
         {
             if (Game1.currentLocation != null && Game1.player != null)
             {
-                companionPosition = Game1.player.getTileLocation() + new Vector2(1, 0); // one tile right of player
+                companionPosition = Game1.player.getTileLocation() + new Vector2(1, 0);
                 if (companion == null)
                 {
                     companion = new NPC(null, companionPosition * 64, Game1.currentLocation.Name, 2, "Companion", false, null, Game1.content.Load<Texture2D>("Characters\\Abigail"));
-                    companion.Speed = 3; // slightly faster
+                    companion.Speed = 3;
                     Game1.currentLocation.addCharacter(companion);
                 }
                 else
@@ -57,16 +57,16 @@ namespace CompanionMod
 
             switch (Game1.player.FacingDirection)
             {
-                case 0: // up
+                case 0:
                     behindPlayerTile = playerTile + new Vector2(0, 1);
                     break;
-                case 1: // right
+                case 1: 
                     behindPlayerTile = playerTile + new Vector2(-1, 0);
                     break;
-                case 2: // down
+                case 2: 
                     behindPlayerTile = playerTile + new Vector2(0, -1);
                     break;
-                case 3: // left
+                case 3:
                     behindPlayerTile = playerTile + new Vector2(1, 0);
                     break;
             }
