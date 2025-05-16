@@ -5,7 +5,7 @@ using Microsoft.Xna.Framework;
 using StardewValley.Characters;
 using System.Collections.Generic;
 
-namespace CompanionMod
+namespace AtlantisCompanion
 {
     public class ModEntry : Mod
     {
