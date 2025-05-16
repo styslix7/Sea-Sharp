@@ -1,0 +1,9 @@
+{
+  "Name": "AtlantisCompanion",
+  "Author": "Styslix",
+  "Version": "1.0.0",
+  "Description": "Adds a companion that follows the player.",
+  "UniqueID": "Styslix.companionmod",
+  "EntryDll": "CompanionMod.dll",
+  "MinimumApiVersion": "3.0.0"
+}
