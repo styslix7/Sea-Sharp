@@ -1,0 +1,11 @@
+{
+    "Name": "AtlantisDialogues",
+    "Author": "Styslix",
+    "Version": "1.0.0",
+    "Description": "A basic mod featuring the Atlantis dialogues.",
+    "UniqueID": "Styslix.AtlantisD",
+    "UpdateKeys": [ "Nexus:???" ],
+    "ContentPackFor": {
+        "UniqueID": "Pathoschild.ContentPatcher"
+    }
+}

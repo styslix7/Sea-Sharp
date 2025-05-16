@@ -1,0 +1,79 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Data/Characters/Dialogue/Alex",
+      "Entries": {
+        "Introduction": "Hello! I like to think about Atlantis. Big city under water. It is very strong and brave place.",
+        "Greeting": "Good day! The sea is big like Atlantis. I want to be strong like that.",
+        "Help": "If you want, we can swim like in Atlantis. I teach you strong moves.",
+        "Weather_Sunny": "Sun makes me think about bright Atlantis days.",
+        "Weather_Rain": "Rain makes water high. Like waves in Atlantis.",
+        "Fishing": "Fish are small like in stories of Atlantis. Maybe magic fish?",
+        "Birthday": "Happy day! Maybe one day we will find Atlantis treasure together.",
+        "Love": "Atlantis is full of stories of brave hearts. You make me feel brave too.",
+        "Goodbye": "Bye! Remember, be strong like Atlantis!"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Characters/Dialogue/Maru",
+      "Entries": {
+        "Introduction": "Hi! I think Atlantis had big machines under water. So smart and shiny.",
+        "Greeting": "Hello! I want to build machines like Atlantis. They are smart and help people.",
+        "Help": "If you find strange things from Atlantis, please bring them to me. I want to learn.",
+        "Weather_Sunny": "Sun helps machines work. Like the bright lights of Atlantis.",
+        "Weather_Rain": "Rain makes water flow. Like power for machines in Atlantis.",
+        "Fishing": "Fish swim like little robots. Maybe Atlantis made them?",
+        "Birthday": "Happy birthday! One day, we will make big things like Atlantis.",
+        "Love": "Atlantis stories have love and smart minds. I like both.",
+        "Goodbye": "Bye! Don't forget to check the submarine!"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Characters/Dialogue/Sebastian",
+      "Entries": {
+        "Introduction": "Atlantis is a dark place under water. It feels quiet and deep, like me.",
+        "Greeting": "Hey. Sometimes I think Atlantis is hiding secrets. Like me.",
+        "Help": "If you want to find secrets in water or land, I can help. Like Atlantis explorers.",
+        "Weather_Sunny": "Sunlight is rare in Atlantis. It makes the city feel strange.",
+        "Weather_Rain": "Rain makes the ocean bigger. Maybe Atlantis wakes up then.",
+        "Fishing": "Fish from Atlantis stories look strange. Like they know secrets.",
+        "Birthday": "Your birthday is special. Maybe like a lost treasure from Atlantis.",
+        "Love": "Atlantis has deep love stories. I like stories like that.",
+        "Goodbye": "Bye. You better start building the submarine, I want to know it's secrets.'"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Characters/Dialogue/Abigail",
+      "Entries": {
+        "Introduction": "Atlantis is magic! Big city under sea with ghosts and lights!",
+        "Greeting": "Hi! I love Atlantis stories. They make me happy and scared!",
+        "Help": "If you find Atlantis magic stuff, show me! I want to see ghosts.",
+        "Weather_Sunny": "Sun makes magic glow. Like Atlantis lights shining.",
+        "Weather_Rain": "Rain is like tears of Atlantis spirits.",
+        "Fishing": "Fish are like tiny magic creatures from Atlantis.",
+        "Birthday": "Happy day! May your magic be strong like Atlantis power.",
+        "Love": "Atlantis stories have big hearts and magic. I want both.",
+        "Goodbye": "Bye! Keep magic in your heart like Atlantis."
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Characters/Dialogue/Emily",
+      "Entries": {
+        "Introduction": "Atlantis is beautiful city under the sea. Full of flowers and fish.",
+        "Greeting": "Hello! I like to think of Atlantis gardens under water.",
+        "Help": "If you find Atlantis plants, bring them to me! I want to grow them.",
+        "Weather_Sunny": "Sun helps flowers grow, even in Atlantis.",
+        "Weather_Rain": "Rain waters the plants, like in Atlantis gardens.",
+        "Fishing": "Fish swim in water gardens. Maybe Atlantis gardens have fish friends.",
+        "Birthday": "Happy birthday! Like a flower blooming in Atlantis.",
+        "Love": "Love grows like plants. Atlantis has big love gardens.",
+        "Goodbye": "Bye! Keep your heart like a flower in Atlantis."
+      }
+    }
+  ]
+}

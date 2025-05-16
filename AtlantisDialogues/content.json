@@ -1,0 +1,13 @@
+{
+  "Format": "1.23.0",
+  "Name": "AtlantisDialogues",
+  "Author": "Styslisx",
+  "Version": "1.0.0",
+  "Description": "Adds Atlantis-themed custom dialogues to multiple characters.",
+  "UniqueID": "Styslix.AtlantisDialogues",
+  "EntryDll": null,
+  "UpdateKeys": [],
+  "Includes": [
+    "dialogues/atlantis_dialogues.json"
+  ]
+}
